@@ -24,7 +24,7 @@ serde_derive = "0.9"
 serde_json = "0.9"
 
 #metrics = "0.2"
-metrics = { git = "https://github.com/chridou/rust-metrics" }
+metrics = { git = "https://github.com/posix4e/rust-metrics" }
 hdrsample = "3.0"
 
 [dev-dependencies]
